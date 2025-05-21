@@ -35,7 +35,7 @@
 
 | Ana Sayfa | Ana Sayfa (Scroll) | Ana Sayfa (Alt) |
 |----------|--------------------|-----------------|
-| ![Anasayfa](assets/screenshots/anasayfa.png) | ![Anasayfa1](assets/screenshots/anasayfa1.png) | ![Anasayfa2](assets/screenshots/anasayfa2.png) |
+| ![Anasayfa](assets/screenshots/Anasayfa.png) | ![Anasayfa1](assets/screenshots/Anasayfa1.png) | ![Anasayfa2](assets/screenshots/Anasayfa2.png) |
 
 | Önerilen Tarifler | Tarif Ekranı | Sohbet |
 |-------------------|--------------|--------|
