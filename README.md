@@ -37,13 +37,13 @@
 |----------|--------------------|-----------------|
 | ![Anasayfa](assets/screenshots/Anasayfa.png) | ![Anasayfa1](assets/screenshots/Anasayfa1.png) | ![Anasayfa2](assets/screenshots/Anasayfa2.png) |
 
-| Önerilen Tarifler | Tarif Ekranı | Sohbet |
+| Önerilen Tarifler | Tarif Ekranı | Tarif Ekranı(ALT) | Sohbet |
 |-------------------|--------------|--------|
-| ![Önerilen Tarifler](assets/screenshots/onerilentarifler.png) | ![Tarif Ekranı](assets/screenshots/tarifekrani.png) | ![Sohbet](assets/screenshots/sohbet.png) |
+| ![Önerilen Tarifler](assets/screenshots/onerilentarifler.png) | ![Tarif Ekranı](assets/screenshots/tarifekrani.png) | ![Tarif Ekranı Alt](assets/screenshots/tarifekrani1.png) | ![Sohbet](assets/screenshots/sohbet.png) |
 
-| Geçmiş | Ayarlar |
+| Geçmiş | Ayarlar | Ayarlar(ALT) |
 |--------|---------|
-| ![Geçmiş](assets/screenshots/gecmis.png) | ![Ayarlar](assets/screenshots/ayarlar.png) |
+| ![Geçmiş](assets/screenshots/gecmis.png) | ![Ayarlar](assets/screenshots/ayarlar.png) | ![Ayarlar](assets/screenshots/ayarlar1.png) |
 
 ---
 
