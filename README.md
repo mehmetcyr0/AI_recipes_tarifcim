@@ -33,27 +33,28 @@
 
 ## 🖼️ Uygulama Ekran Görüntüleri
 
-| Ana Sayfa | Ana Sayfa (Scroll) | Ana Sayfa (Alt) |
-|----------|--------------------|-----------------|
-| ![Anasayfa](assets/screenshots/Anasayfa.png) | ![Anasayfa1](assets/screenshots/Anasayfa1.png) | ![Anasayfa2](assets/screenshots/Anasayfa2.png) |
+### 🔹 Ana Sayfa Görselleri
+| Ana Sayfa | Scroll Edilmiş | Alt Kısım |
+|-----------|----------------|-----------|
+| ![Ana Sayfa](assets/screenshots/Anasayfa.png) | ![Ana Sayfa 1](assets/screenshots/Anasayfa1.png) | ![Ana Sayfa 2](assets/screenshots/Anasayfa2.png) |
 
-| Önerilen Tarifler | Tarif Ekranı | Tarif Ekranı(ALT) | Sohbet |
-|-------------------|--------------|--------|
+### 🔹 Tarif ve Sohbet Ekranları
+| Önerilen Tarifler | Tarif Ekranı | Tarif Ekranı (Alt) | Sohbet |
+|-------------------|--------------|---------------------|--------|
 | ![Önerilen Tarifler](assets/screenshots/onerilentarifler.png) | ![Tarif Ekranı](assets/screenshots/tarifekrani.png) | ![Tarif Ekranı Alt](assets/screenshots/tarifekrani1.png) | ![Sohbet](assets/screenshots/sohbet.png) |
 
-| Geçmiş | Ayarlar | Ayarlar(ALT) |
-|--------|---------|
-| ![Geçmiş](assets/screenshots/gecmis.png) | ![Ayarlar](assets/screenshots/ayarlar.png) | ![Ayarlar](assets/screenshots/ayarlar1.png) |
-
----
+### 🔹 Geçmiş ve Ayarlar Ekranları
+| Geçmiş | Ayarlar | Ayarlar (Alt) |
+|--------|---------|----------------|
+| ![Geçmiş](assets/screenshots/gecmis.png) | ![Ayarlar](assets/screenshots/ayarlar.png) | ![Ayarlar Alt](assets/screenshots/ayarlar1.png) |
 
 ## 🧠 Yapay Zeka Entegrasyonu
 
-Tarifcim, **Google Gemini 2.0 Flash** modelini kullanarak tarif üretir. Yapay zekanın çalışma mantığı:
+Tarifcim, **Google Gemini 2.0 Flash** modelini kullAnarak tarif üretir. Yapay zekanın çalışma mantığı:
 
 1. **Veri Toplama**: Malzeme, diyet ve alerji bilgisi.
 2. **Prompt Mühendisliği**: Bu bilgilerle yapay zekaya özel formatta sorgu gönderilir.
-3. **Tarif Üretimi**: AI modeli özgün ve uygulanabilir tarif üretir.
+3. **Tarif Üretimi**: AI modeli özgün ve uygulAnabilir tarif üretir.
 4. **Sonuç İşleme**: JSON formatındaki çıktılar arayüzde görsel hale getirilir.
 5. **Öğrenme ve Gelişim**: Kullanıcı geri bildirimlerine göre model davranışı iyileştirilir.
 
