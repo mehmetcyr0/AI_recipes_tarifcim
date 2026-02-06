@@ -87,7 +87,7 @@ Tarifcim, **Google Gemini 2.0 Flash** modelini kullAnarak tarif üretir. Yapay z
 
 ```bash
 # Repoyu klonlayın
-git clone https://github.com/kullanici-adi/tarifcim.git
+git clone https://github.com/mehmetcyr0/tarifcim.git
 cd tarifcim
 
 # Flutter bağımlılıklarını yükleyin
