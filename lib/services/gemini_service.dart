@@ -6,7 +6,7 @@ class GeminiService {
   static const String _baseUrl =
       'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
-  static const String _apiKey = 'AIzaSyCY2qDn0B26ZxwKNi4jbrivMcG9THoYfBA';
+  static const String _apiKey = 'yourApiK';
 
   Future<String> getResponse(String prompt, {String language = 'tr'}) async {
     try {
